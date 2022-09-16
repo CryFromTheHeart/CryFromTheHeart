@@ -1,5 +1,6 @@
 ### 👋 Hey everyone, Im CryFromTheHeart 👋 Im student, live in Ulyanovsk
-My main language is JavaScript, Framework React.
+My main language is JavaScript, 
+Mostly i code on React.
 <!--
 **CryFromTheHeart/CryFromTheHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
