@@ -1,5 +1,4 @@
-###👋 Hey everyone, Im CryFromTheHeart 👋
-Im student, live in Ulyanovsk
+###👋 Hey everyone, Im CryFromTheHeart 👋 Im student, live in Ulyanovsk
 <!--
 **CryFromTheHeart/CryFromTheHeart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
